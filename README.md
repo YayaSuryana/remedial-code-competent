@@ -1,6 +1,7 @@
 # Remedial Code Competence
 
-Oleh: Yaya Suryana
+### Oleh: Yaya Suryana
+
 File README ini memberikan gambaran fitur terkait login, register, add item, get item, create item, put item, delete item, dan update item untuk proyek remedial code competence.
 
 ## Login
